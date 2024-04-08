@@ -1,4 +1,4 @@
-def get_random_ingredients(kind=None):
+def get_ingredients_list(kind=None):
     """
         Return a list of random ingredients as strings.
 
